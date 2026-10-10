@@ -2,7 +2,7 @@ import matplotlib.pyplot as plt
 import pandas as pd
 import streamlit as st
 
-st.title("California Housing Data (1990) by Kaiyun Li")
+st.title("California Housing Data (1990) by Liyuan Ou")
 
 df = pd.read_csv("housing.csv")
 
